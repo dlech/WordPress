@@ -1,0 +1,42 @@
+[submodule "wp-content/themes/responsive"]
+	path = wp-content/themes/responsive
+	url = git@github.com:dlech/responsive
+[submodule "wp-content/themes/responsive-childtheme"]
+	path = wp-content/themes/responsive-childtheme
+	url = git@github.com:dlech/responsive-childtheme
+[submodule "wp-content/plugins/subpages-extended"]
+	path = wp-content/plugins/subpages-extended
+	url = git@github.com:dlech/subpages-extended
+[submodule "wp-content/plugins/jetpack-sharing"]
+	path = wp-content/plugins/jetpack-sharing
+	url = git@github.com:dlech/jetpack-sharing.git
+[submodule "wp-content/plugins/jetpack-widget-visibility"]
+	path = wp-content/plugins/jetpack-widget-visibility
+	url = git@github.com:dlech/jetpack-widget-visibility.git
+[submodule "wp-content/plugins/next-page"]
+	path = wp-content/plugins/next-page
+	url = git@github.com:dlech/next-page
+[submodule "wp-content/plugins/contact-form-7"]
+	path = wp-content/plugins/contact-form-7
+	url = git@github.com:dlech/contact-form-7
+[submodule "wp-content/plugins/bwp-recaptcha"]
+	path = wp-content/plugins/bwp-recaptcha
+	url = git@github.com:dlech/bwp-recaptcha
+[submodule "wp-content/plugins/simple-page-ordering"]
+	path = wp-content/plugins/simple-page-ordering
+	url = git@github.com:dlech/simple-page-ordering
+[submodule "wp-content/plugins/table-of-contents-plus"]
+	path = wp-content/plugins/table-of-contents-plus
+	url = git@github.com:dlech/table-of-contents-plus
+[submodule "wp-content/plugins/download-button-shortcode"]
+	path = wp-content/plugins/download-button-shortcode
+	url = git@github.com:dlech/download-button-shortcode
+[submodule "wp-content/plugins/definition-list"]
+	path = wp-content/plugins/definition-list
+	url = git@github.com:dlech/definition-list
+[submodule "wp-content/plugins/shortcode-box"]
+	path = wp-content/plugins/shortcode-box
+	url = git@github.com:dlech/shortcode-box
+[submodule "wp-content/plugins/broken-link-checker"]
+	path = wp-content/plugins/broken-link-checker
+	url = git@github.com:dlech/broken-link-checker
